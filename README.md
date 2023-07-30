@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roxg
-- 🌱 I’m currently learning Kotlin, C#, Angular, React. 
+- 🌱 I’m currently learning Kotlin, Python, C#, Angular, React. I'm mainly a database nerd (transactional SQL dbs)
 - Reach out if you have any hockey data analytics projects. Always interested in that.
 
 <!---
